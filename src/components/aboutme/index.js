@@ -1,4 +1,4 @@
-import "C:/Users/moope/OneDrive/Documents/GitHub/dig4639c-s21-0w61-SlimyOrca/assignments/develop-2/src/App.css"
+import "/Users/moope/OneDrive/Documents/GitHub/ti_menu_app/src/App.css"
 import React from "react"
 import TuckerItem from "../tuckeritem"
 export default class AboutMe extends React.Component{
