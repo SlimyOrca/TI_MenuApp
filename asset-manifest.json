@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ti_menu_app/static/css/main.3ceecc56.chunk.css",
+    "main.js": "/ti_menu_app/static/js/main.d71fe507.chunk.js",
+    "main.js.map": "/ti_menu_app/static/js/main.d71fe507.chunk.js.map",
+    "runtime-main.js": "/ti_menu_app/static/js/runtime-main.690d880c.js",
+    "runtime-main.js.map": "/ti_menu_app/static/js/runtime-main.690d880c.js.map",
+    "static/js/2.820d957e.chunk.js": "/ti_menu_app/static/js/2.820d957e.chunk.js",
+    "static/js/2.820d957e.chunk.js.map": "/ti_menu_app/static/js/2.820d957e.chunk.js.map",
+    "static/js/3.dc3108b3.chunk.js": "/ti_menu_app/static/js/3.dc3108b3.chunk.js",
+    "static/js/3.dc3108b3.chunk.js.map": "/ti_menu_app/static/js/3.dc3108b3.chunk.js.map",
+    "index.html": "/ti_menu_app/index.html",
+    "static/css/main.3ceecc56.chunk.css.map": "/ti_menu_app/static/css/main.3ceecc56.chunk.css.map",
+    "static/js/2.820d957e.chunk.js.LICENSE.txt": "/ti_menu_app/static/js/2.820d957e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ti_menu_app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.690d880c.js",
+    "static/js/2.820d957e.chunk.js",
+    "static/css/main.3ceecc56.chunk.css",
+    "static/js/main.d71fe507.chunk.js"
+  ]
+}
